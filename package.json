@@ -1,5 +1,5 @@
 {
-  "name": "atomer-eslint-config",
+  "name": "eslint-config-atomer",
   "version": "1.0.0",
   "description": "team's code check config",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jiangjianqing/atomer-eslint-config.git"
+    "url": "git+https://github.com/jiangjianqing/eslint-config-atomer.git"
   },
   "keywords": [
     "code",
@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/jiangjianqing/atomer-eslint-config/issues"
   },
-  "homepage": "https://github.com/jiangjianqing/atomer-eslint-config#readme"
+  "homepage": "https://github.com/jiangjianqing/atomer-eslint-config#readme",
+  "devDependencies": {
+    "eslint-plugin-flow-vars": "^0.5.0",
+    "eslint-plugin-react": "^7.0.1"
+  }
 }
