@@ -1,0 +1,23 @@
+{
+  "name": "atomer-eslint-config",
+  "version": "1.0.0",
+  "description": "team's code check config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiangjianqing/atomer-eslint-config.git"
+  },
+  "keywords": [
+    "code",
+    "check"
+  ],
+  "author": "cz_jjq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiangjianqing/atomer-eslint-config/issues"
+  },
+  "homepage": "https://github.com/jiangjianqing/atomer-eslint-config#readme"
+}
