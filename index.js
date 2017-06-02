@@ -7,7 +7,7 @@ module.exports = {
     }
   },
   //"extends": "vue",
-  "plugins": ["flow-vars", "react"],
+  "plugins": ["flowtype", "react"],
   "globals": {
     "$": true,
     "define": true,

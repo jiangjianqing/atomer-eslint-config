@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-atomer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "team's code check config",
   "main": "index.js",
   "scripts": {
@@ -19,9 +19,5 @@
   "bugs": {
     "url": "https://github.com/jiangjianqing/atomer-eslint-config/issues"
   },
-  "homepage": "https://github.com/jiangjianqing/atomer-eslint-config#readme",
-  "devDependencies": {
-    "eslint-plugin-flow-vars": "^0.5.0",
-    "eslint-plugin-react": "^7.0.1"
-  }
+  "homepage": "https://github.com/jiangjianqing/atomer-eslint-config#readme"
 }
