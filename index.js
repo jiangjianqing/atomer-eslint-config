@@ -21,11 +21,8 @@ module.exports = {
 	"amd": true
   },
   "rules": {
-	"indent": [
-	  "error",
-	  2
-	],
 	// 不需要
+	"indent": 0,
 	"space-before-function-paren": 0,
 	"eol-last": 0,
 	"no-extra-semi": 0,
