@@ -2,6 +2,7 @@ module.exports = {
   "root": true,
   "parser": "babel-eslint",
   "parserOptions": {
+  	"sourceType": "module", //指定来源的类型，有两种”script”或”module”,
 	"ecmaFeatures": {
 	  "jsx": true
 	}

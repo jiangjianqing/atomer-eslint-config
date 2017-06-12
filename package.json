@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-atomer",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "team's code check config",
   "main": "index.js",
   "scripts": {
