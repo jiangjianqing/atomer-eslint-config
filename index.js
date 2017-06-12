@@ -46,8 +46,10 @@ module.exports = {
 	"no-unused-vars": 1,
 
 	// vue
+	  /*
 	"flow-vars/define-flow-type": 1,
 	"flow-vars/use-flow-type": 1,
+	  */
 
 	// react
 	"react/jsx-uses-react": 2,
@@ -79,7 +81,7 @@ module.exports = {
 	"key-spacing": [
 	  1,
 	  {
-		"beforeColon": false,
+		"beforeColon": true,
 		"afterColon": true
 	  }
 	],
