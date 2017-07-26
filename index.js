@@ -81,7 +81,7 @@ module.exports = {
 	"key-spacing": [
 	  1,
 	  {
-		"beforeColon": true,
+		"beforeColon": false, //冒号前不需要加空格
 		"afterColon": true
 	  }
 	],
